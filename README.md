@@ -1,11 +1,11 @@
 # Horiseon
 
 ## Purpose
-Refactor html and css style sheet to function, add accessibility, alter code to match given moch-up and to consolidate stylings.
+Refactor HTML and CSS style sheet to function, add accessibility, alter code to match given moch-up and to consolidate stylings.
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://github.com/lmcmanaman/challenge1.git
